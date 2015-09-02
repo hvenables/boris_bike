@@ -1,3 +1,5 @@
-# Boris Bikes Project - Week 1 #
+## Boris Bikes Challenges - Week 1 ##
 
-By Harry Craven and Harry Venables
+Ten excersises that will expose the basics of classes, objects and TDD, through a real life scenario of Santander cycles.
+
+This Readme was initialized by Harriet Craven and Harry Venables
